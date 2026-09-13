@@ -1,6 +1,3 @@
 -- Yarhm MM2 GUI Script
 -- Blue Theme Edition
-
 loadstring(game:HttpGet("https://yarhm.com"))()
-
-print("Yarhm MM2 GUI Loaded!")
